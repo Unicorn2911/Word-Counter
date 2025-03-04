@@ -19,3 +19,13 @@ A simple web application built using Django that counts the number of words in u
 1. Clone this repository:
    ```sh
    git clone https://github.com/your-username/django-word-counter.git
+
+2. Create a Virtual Environment:
+   ```sh
+   python -m venv venv
+   
+3. Run the Django Server:
+   ```sh
+   python manage.py runserver
+   
+
