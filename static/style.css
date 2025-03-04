@@ -1,0 +1,25 @@
+
+header{
+
+    text-align: center;
+    color: rgb(6, 4, 4);
+}
+body{
+    text-align: center;
+}
+.btn{
+    padding: 15px 75px 15px 75px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: solid;
+    & :hover{
+        cursor: pointer;
+    }
+    
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: rgb(102, 81, 220); 
+    color: white;
+    border: solid black;
+}
